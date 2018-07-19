@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a3f9c90a-5ab7-4f73-9961-8f61a85fa40c",
+    "data": [
+      {
+        "text": "je veux acheter un ",
+        "userDefined": false
+      },
+      {
+        "text": "samsung",
+        "alias": "samsung",
+        "meta": "@samsung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4518ee1-1238-4e7d-ae55-366967365cda",
+    "data": [
+      {
+        "text": "samsung",
+        "alias": "samsung",
+        "meta": "@samsung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508340541
+  },
+  {
+    "id": "fdd442ef-b76e-4794-9dba-809481dfb025",
+    "data": [
+      {
+        "text": "le prix ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "samsung",
+        "alias": "samsung",
+        "meta": "@samsung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1508340541
+  }
+]

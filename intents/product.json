@@ -1,0 +1,46 @@
+{
+  "id": "37e7bf66-13b5-41dc-b168-c8848c6f1e71",
+  "name": "product",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "462a6fb3-993a-4886-8969-70214aa70f7f",
+          "required": false,
+          "dataType": "@samsung",
+          "name": "samsung",
+          "value": "$samsung",
+          "isList": false
+        },
+        {
+          "id": "2ab97eff-790b-441c-bfeb-227fea84a49f",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ok"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532015126,
+  "fallbackIntent": false,
+  "events": []
+}

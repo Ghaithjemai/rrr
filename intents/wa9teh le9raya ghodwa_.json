@@ -1,0 +1,36 @@
+{
+  "id": "cb2a6e96-6752-4b06-8957-71f0343bbecc",
+  "name": "wa9teh le9raya ghodwa?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weather",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e94ca5b3-eff8-4b2e-9130-61b566f0f8f8",
+          "required": false,
+          "name": "9raya",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "8h:30"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1532015312,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      "hahahahah"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "wooow"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "bye"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "ala khir"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "bonjour"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "21"
+    ]
+  }
+]
